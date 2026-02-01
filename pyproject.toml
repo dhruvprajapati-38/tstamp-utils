@@ -1,0 +1,14 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "tstamp-utils"
+version = "0.1.0"
+description = "A simple Python utility to print timestamp"
+authors = [
+    { name = "Dhruv Prajapati", email = "24162581038@gnu.ac.in" }
+]
+readme = "README.md"
+license = { text = "MIT" }
+dependencies = []
